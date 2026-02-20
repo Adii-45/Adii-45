@@ -1,10 +1,12 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+# **<div align="center">Hi, I'm Aditya, a passionate full-stack developer </div>**  
 
-### **<div align="center">Hi, I'm Aditya, a passionate full-stack developer </div>**  
-  
+<div align="center">
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Adii-45&theme=github_dark" />
+
+</div>
+
+----
 
 - 🔭 I’m currently working on [MemoraX](https://github.com/Adii-45/MemoraX)  
   
@@ -20,8 +22,10 @@
 
 <br/>  
 
+----
 
 ## My Skill Set  
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -68,11 +72,8 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</table>  
+</div>
 
 <br/>  
 
@@ -95,29 +96,24 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Adii-45&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Adii-45&show_icons=true&theme=github_dark&hide_border=true" />
+
+  <br/>
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Adii-45&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Adii-45&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
 
-<div align="center"></div>
-<br />
-
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
