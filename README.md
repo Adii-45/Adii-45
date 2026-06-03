@@ -1,4 +1,4 @@
-# **<div align="center">Hi, I'm Aditya, a passionate full-stack developer </div>**  
+# **<div align="center">Hi, I'm a passionate full-stack developer </div>**  
 
 <div align="center">
 
