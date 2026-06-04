@@ -1,86 +1,175 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=132&section=header&reversal=true&text=Hi%20%F0%9F%91%8B!%20My%20name%20is%20...%20and%20I'm%20a%20...,%20from%20....&fontSize=30&fontColor=FAF9F6&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=0096FF"  />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=I+solemnly+swear+that+I+am+up+to+no+good.;Hey%2C+I'm+Adii+⚡;2nd+Year+Computer+Science+Student;Open+Source+Contributor;Building+Products+for+Students;Future+Founder+🚀;Mischief+Managed." />
+
 </div>
 
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Adii-45/Adii-45/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Adii-45/Adii-45/languages-output/languages.svg" height="150" alt="languages graph"  />
+
+# 🧙 Wizard Profile
+
+```yaml
+Name: Adii
+House: Gryffindor 
+Year: Second Year
+Wand: JavaScript + React + Node.js
+Current Spellbook: MERN Stack
+Patronus: Open Source
+Mission: Build products students love
+```
+
 </div>
 
-###
-
-<img align="right" height="155" src="https://i.pinimg.com/736x/49/77/e2/4977e2b9b466bf0727434b4589ed6aed.jpg"  />
-
-###
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="37" alt="typescript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="37" alt="react logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="37" alt="bootstrap logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="37" alt="docker logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="37" alt="figma logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" alt="git logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="37" alt="github logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="37" alt="go logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="37" alt="nodejs logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="37" alt="numpy logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="37" alt="threejs logo"  />
-</div>
 
-###
+# 🦉 Owl Post
+
+</div>
 
 <div align="center">
-  <a href="https://discordapp.com/users/755283928893489192" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/adityanayak45" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="adi.nayak45@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+
+| |
+|---|
+| 🎯 Building products for students |
+| 🚀 Exploring startups and open source |
+| 🌱 Learning full-stack development with MERN |
+| 🔍 Interested in UX Research & Product Thinking |
+| ⚡ Harry Potter references somehow end up everywhere |
+
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
+
+# 🏰 Hogwarts Journey
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🧠 MemoraX
+
+AI-powered learning platform
+
+Transform notes into smarter learning experiences
+
+</td>
+
+<td align="center" width="33%">
+
+### 📚 Habitrix
+
+Build better habits
+
+Track goals and stay consistent every day
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Open Source
+
+Contributing to projects
+
+Learning by building in public
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📜 Spellbook
+
+### Frontend Charms
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+
+<br>
+
+### Backend Potions
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+<br>
+
+### Ancient Magic
+
+<img src="https://skillicons.dev/icons?i=python,java,go,git,github,docker" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 Wizard Statistics
+
+<img src="https://raw.githubusercontent.com/Adii-45/Adii-45/stats-output/stats.svg" height="160"/>
+
+<img src="https://raw.githubusercontent.com/Adii-45/Adii-45/languages-output/languages.svg" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Marauder's Map
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adii-45/Adii-45/pacman-output/bomberman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adii-45/Adii-45/pacman-output/bomberman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adii-45/Adii-45/pacman-output/bomberman-contribution-graph.svg">
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/Adii-45/Adii-45/pacman-output/bomberman-contribution-graph.svg">
 </picture>
 
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=122&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0096FF"  />
 </div>
 
-###
+---
+
+<div align="center">
+
+## 🦉 Owl Post
+
+<a href="https://www.linkedin.com/in/adityanayak45">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Adii-45">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:adi.nayak45@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discordapp.com/users/755283928893489192">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<br>
+
+### ⚡ **Always.** ⚡
+
+<i>
+"I solemnly swear that I am up to no good..."
+</i>
+
+<br>
+<br>
+🦁 Gryffindor • 🚀 Builder • 🌐 Open Source
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E3A8A,100:DC143C"/>
