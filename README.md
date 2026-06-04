@@ -38,7 +38,7 @@ Mission: Build products students love
 | 🚀 Exploring startups and open source |
 | 🌱 Learning full-stack development with MERN |
 | 🔍 Interested in UX Research & Product Thinking |
-| ⚡ Harry Potter references somehow end up everywhere |
+| 💡 Turning ideas into products |
 
 </div>
 
@@ -142,19 +142,15 @@ Learning by building in public
 
 ## 🦉 Owl Post
 
-<a href="https://www.linkedin.com/in/adityanayak45">
+<a href="https://www.linkedin.com/in/adityanayak45" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Adii-45">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:adi.nayak45@gmail.com">
+<a href="mailto:adi.nayak45@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://discordapp.com/users/755283928893489192">
+<a href="https://discordapp.com/users/755283928893489192" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
