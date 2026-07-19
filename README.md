@@ -24,6 +24,7 @@ Mission: Build products students love
 
 ---
 
+<!--
 <div align="center">
 
 # 🦉 Owl Post
@@ -87,6 +88,7 @@ Learning by building in public
 </div>
 
 ---
+-->
 
 <div align="center">
 
