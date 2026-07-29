@@ -24,72 +24,6 @@ Mission: Build products students love
 
 ---
 
-<!--
-<div align="center">
-
-# 🦉 Owl Post
-
-</div>
-
-<div align="center">
-
-| |
-|---|
-| 🎯 Building products for students |
-| 🚀 Exploring startups and open source |
-| 🌱 Learning full-stack development with MERN |
-| 🔍 Interested in UX Research & Product Thinking |
-| 💡 Turning ideas into products |
-
-</div>
-
----
-
-<div align="center">
-
-# 🏰 Hogwarts Journey
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🧠 MemoraX
-
-AI-powered learning platform
-
-Transform notes into smarter learning experiences
-
-</td>
-
-<td align="center" width="33%">
-
-### 📚 Habitrix
-
-Build better habits
-
-Track goals and stay consistent every day
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌐 Open Source
-
-Contributing to projects
-
-Learning by building in public
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
--->
-
 <div align="center">
 
 # 📜 Spellbook
@@ -170,4 +104,4 @@ Learning by building in public
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E3A8A,100:DC143C"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E3A8A,100:DC143C"/>  -->
