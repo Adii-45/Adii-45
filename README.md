@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=I+solemnly+swear+that+I+am+up+to+no+good.;Hey%2C+I'm+Adii+⚡;2nd+Year+Computer+Science+Student;Open+Source+Contributor;Building+Products+for+Students;Future+Founder+🚀;Mischief+Managed." />
 
@@ -170,4 +170,4 @@ Learning by building in public
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E3A8A,100:DC143C"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E3A8A,100:DC143C"/> -->
